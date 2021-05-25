@@ -9,3 +9,6 @@ Also balls and rectangles can bounce from the walls:
 
 ![Screenshot_44](https://user-images.githubusercontent.com/73321844/119581223-fe968500-bd76-11eb-9dbd-d878728f44ce.png)
 
+Here is example of adding balls, fun right?
+
+![Screenshot_45](https://user-images.githubusercontent.com/73321844/119581533-9a27f580-bd77-11eb-9c5c-01097dae17a9.png)
